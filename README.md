@@ -15,6 +15,9 @@ npx ncu -u
 
 # Install your up to date dependencies
 npm install
+
+# Uninstalling ncu cli tool
+npm uninstall ncu
 ```
 
 NPM scripts :
